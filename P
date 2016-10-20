@@ -1,0 +1,5 @@
+*****   Numero Primo   *****
+Introduce el numero
+7
+El numero es primo
+BUILD SUCCESSFUL (total time: 4 seconds)
